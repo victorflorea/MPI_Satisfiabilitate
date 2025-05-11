@@ -1,1 +1,1 @@
-# MPI_Satisfiabilitate
+Lucrare MPI care abordeaza tema problemei SAT.
